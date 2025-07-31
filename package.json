@@ -1,0 +1,8 @@
+{
+  "name": "n8n-docker",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "echo 'Using Docker build'",
+    "start": "echo 'Using Docker start'"
+  }
+}
