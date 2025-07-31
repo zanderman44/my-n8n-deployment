@@ -3,6 +3,6 @@
   "version": "1.0.0",
   "scripts": {
     "build": "echo 'Using Docker build'",
-    "start": "echo 'Using Docker start'"
+    "start": "n8n start"
   }
 }
